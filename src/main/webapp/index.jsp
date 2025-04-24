@@ -48,7 +48,7 @@
     <footer>
         <div class="footer-content">
             <div class="footer-section">
-                <h3>About ShopEasy</h3>
+                <h3>About Amazon</h3>
                 <p>Your one-stop destination for all your shopping needs. Quality products at affordable prices.</p>
             </div>
             <div class="footer-section">
@@ -61,7 +61,7 @@
             </div>
             <div class="footer-section">
                 <h3>Contact Us</h3>
-                <p>Email: support@shopeasy.com</p>
+                <p>Email: support@amazon.com</p>
                 <p>Phone: +91 9876543210</p>
             </div>
         </div>
