@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>Amazon</h1>
+            <h1>flip</h1>
         </div>
         <nav>
             <ul>
